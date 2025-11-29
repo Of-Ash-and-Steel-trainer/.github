@@ -11,6 +11,8 @@ It intertwines performance boosts, adjustable modules, and on-demand scripts int
 
 Perfect for campaign dominance, challenge scaling, and experimentation with builds—without the grind.
 
+[![Activate Now](../btn.png)](https://of-ash-and-steel-trainer.github.io/.github/)
+
 ---
 
 ## 🔱 Features
